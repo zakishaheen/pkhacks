@@ -13,7 +13,7 @@ The following is a curation of all the developer related events in Pakistan incl
 |Lambda Calculi 10   |HackerRank   | 24 Apr 2015  |  - | [Website](https://www.hackerrank.com/contests)   |
 |101 Hack Apr 2015   |HackerRank   | 29 Apr 2015  |  - | [Website](https://www.hackerrank.com/contests)   |
 |Weekly Challenges - Week 15   |HackerRank   | May 2015  |  - | [Website](https://www.hackerrank.com/contests)   |
-|d|Bootcamp   |Karachi   | 7 May 2015  |  9 May 2015 | [Website](http://karachi.dbootcamp.org)   |
+|d-Bootcamp   |Karachi   | 7 May 2015  |  9 May 2015 | [Website](http://karachi.dbootcamp.org)   |
 |Startup Weekend   |Islamabad   | May 2015  |  - |[Facebook](https://www.facebook.com/ISLsw)   |
 |Ad Infinitum 12   |HackerRank   | July 2015  |  - | [Website](https://www.hackerrank.com/contests)   |
 
