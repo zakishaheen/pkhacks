@@ -8,6 +8,9 @@ The following is a curation of all the developer/hacker events in Pakistan inclu
 |Islamabad Civic Hackathon   |Islamabad   | 20 Feb 2015  | 22 Feb 2015   | [Website](http://codeforpakistan.org/event/isbhacks/)  |
 |NASA International Space Apps Competition 2015   |Islamabad   | 10 Apr 2015  |12 Apr 2015   | [Website](https://2015.spaceappschallenge.org)   |
 |d-Bootcamp   |Karachi   | 7 May 2015  |  9 May 2015 | [Website](http://karachi.dbootcamp.org)   |
+|Uber Request Hackathon   |-   | 17 Mar 2015  |  15 May 2015 | [Website](http://uberhackathon.challengepost.com)   |
+|YubiKing 2015   |15 Mar   | 15 Mar 2015  |  15 Jun 2015 | [Website](https://www.yubico.com/yubiking/)   |
+
 
 # Competitive Programming
 |Event name   |City  |Starts   |Ends   |Link   |
@@ -20,7 +23,8 @@ The following is a curation of all the developer/hacker events in Pakistan inclu
 |Weekly Challenges - Week 15   |HackerRank   | May 2015  |  - | [Website](https://www.hackerrank.com/contests)   |
 |GeekWeek   |Lahore   | 4 Apr 2015  |  8 Apr 2015 | [Website](http://g33kweek.com)   |
 |Ad Infinitum 12   |HackerRank   | July 2015  |  - | [Website](https://www.hackerrank.com/contests)   |
-
+|SRM 656   |TopCoder   | 17 Apr 2015  |  - | [Website](http://community.topcoder.com/stat?c=round_overview&er=5&rd=16416)   |
+|SRM 657   |TopCoder   | 27 Apr 2015  |  - | [Website](http://community.topcoder.com/stat?c=round_overview&er=5&rd=16416)   |
 
 # Startup Weekends
 |Event name   |City  |Starts   |Ends   |Link   |
