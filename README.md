@@ -1,6 +1,9 @@
 # Developer/Hacker events in Pakistan
 
-The following is a curation of all the developer/hacker events in Pakistan including Hackathons, Startup weekends, talks, webinars, etc. It also includes events that can be attended virtually. Feel free to fork, add and submit pull request. Keep Events organised by date.
+*Be an early adapter. [Register here](http://pkhacks.launchrock.com) to get updated on PKHacks Alpha launch. *
+
+
+The following is a temporary curation of all the developer/hacker events in Pakistan including Hackathons, Startup weekends, talks, webinars, etc. It also includes events that can be attended virtually. Feel free to fork, add and submit pull request. Keep Events organised by date.
 
 # Hackathons
 |Event name   |City  |Starts   |Ends   |Link   |
