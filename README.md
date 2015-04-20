@@ -41,10 +41,11 @@ The following is a temporary curation of all the developer/hacker events in Paki
 |Microsoft Tech Day   |Islamabad   | 6 Apr 2015  |   | [Website](http://blogs.msdn.com/b/pakistan/archive/2015/03/27/tech-day-2015.aspx)   |
 |Microsoft Tech Day   |Lahore   | 8 Apr 2015  |   | [Website](http://blogs.msdn.com/b/pakistan/archive/2015/03/27/tech-day-2015.aspx)   |
 |Microsoft Tech Day   |Karachi   | 10 Apr 2015  |   | [Website](http://blogs.msdn.com/b/pakistan/archive/2015/03/27/tech-day-2015.aspx)   |
-|NASCON   |Islamabad   | 8 May 2015  |  10 May 2015 | [Website](http://www.nascon.org.pk)   |
-|d-Bootcamp   |Karachi   | 7 May 2015  |  9 May 2015 | [Website](http://karachi.dbootcamp.org)   |
 |Softec   |Lahore   | 28 Mar 2015  | 29 Mar 2015  | [Website](http://www.softecnu.org)  |
 |GeekWeek   |Lahore   | 4 Apr 2015  |  8 Apr 2015 | [Website](http://g33kweek.com)   |
+|NASCON   |Islamabad   | 8 May 2015  |  10 May 2015 | [Website](http://www.nascon.org.pk)   |
+|Digital Youth Summit   |Peshawar   | 7 May 2015  |  9 May 2015 | [Website](http://www.digitalyouthsummit.pk)   |
+|d-Bootcamp   |Karachi   | 7 May 2015  |  9 May 2015 | [Website](http://karachi.dbootcamp.org)   |
 
 # Tech Talks / Sessions
 |Event name   |City  |Starts   |Ends   |Link   |
